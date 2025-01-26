@@ -7,7 +7,7 @@ DineHunt is a web application designed to simplify restaurant discovery by provi
 ## Features
 
 1. **Restaurant Discovery**  
-   - Search for restaurants based on manually entering a city/area name.  
+   - Search for restaurants based on manually entering a area name.  
    - Real-time results powered by geolocation data and user queries.  
 
 2. **Dynamic and Engaging Interface**  
