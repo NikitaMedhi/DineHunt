@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NikitaMedhi/DineHunt/static/css/main.25caec7e.css",
-    "main.js": "/NikitaMedhi/DineHunt/static/js/main.83b49615.js",
-    "static/js/787.bd02f72e.chunk.js": "/NikitaMedhi/DineHunt/static/js/787.bd02f72e.chunk.js",
-    "static/media/logo.jpeg": "/NikitaMedhi/DineHunt/static/media/logo.3d33bc15cc579904fc76.jpeg",
-    "index.html": "/NikitaMedhi/DineHunt/index.html",
-    "main.25caec7e.css.map": "/NikitaMedhi/DineHunt/static/css/main.25caec7e.css.map",
-    "main.83b49615.js.map": "/NikitaMedhi/DineHunt/static/js/main.83b49615.js.map",
-    "787.bd02f72e.chunk.js.map": "/NikitaMedhi/DineHunt/static/js/787.bd02f72e.chunk.js.map"
+    "main.css": "/DineHunt/static/css/main.25caec7e.css",
+    "main.js": "/DineHunt/static/js/main.6b5f0988.js",
+    "static/js/787.bd02f72e.chunk.js": "/DineHunt/static/js/787.bd02f72e.chunk.js",
+    "static/media/logo.jpeg": "/DineHunt/static/media/logo.3d33bc15cc579904fc76.jpeg",
+    "index.html": "/DineHunt/index.html",
+    "main.25caec7e.css.map": "/DineHunt/static/css/main.25caec7e.css.map",
+    "main.6b5f0988.js.map": "/DineHunt/static/js/main.6b5f0988.js.map",
+    "787.bd02f72e.chunk.js.map": "/DineHunt/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25caec7e.css",
-    "static/js/main.83b49615.js"
+    "static/js/main.6b5f0988.js"
   ]
 }
