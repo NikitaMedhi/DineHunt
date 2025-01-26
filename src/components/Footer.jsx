@@ -16,16 +16,16 @@ export default function Footer() {
         {/* Social Links Icons */}
         <div className="flex justify-center space-x-6">
           <a href="#">
-            <img src="/img/icon-facebook.svg" alt="Facebook" className="h-8" />
+            <img src="DineHunt/img/icon-facebook.svg" alt="Facebook" className="h-8" />
           </a>
           <a href="#">
-            <img src="/img/icon-twitter.svg" alt="Twitter" className="h-8" />
+            <img src="DineHunt/img/icon-twitter.svg" alt="Twitter" className="h-8" />
           </a>
           <a href="#">
-            <img src="/img/icon-instagram.svg" alt="Instagram" className="h-8" />
+            <img src="DineHunt/img/icon-instagram.svg" alt="Instagram" className="h-8" />
           </a>
           <a href="#">
-            <img src="/img/icon-youtube.svg" alt="YouTube" className="h-8" />
+            <img src="DineHunt/img/icon-youtube.svg" alt="YouTube" className="h-8" />
           </a>
         </div>
 
