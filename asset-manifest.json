@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DineHunt/static/css/main.25caec7e.css",
-    "main.js": "/DineHunt/static/js/main.2ea8113b.js",
+    "main.js": "/DineHunt/static/js/main.06216563.js",
     "static/js/787.bd02f72e.chunk.js": "/DineHunt/static/js/787.bd02f72e.chunk.js",
     "static/media/logo.jpeg": "/DineHunt/static/media/logo.3d33bc15cc579904fc76.jpeg",
     "index.html": "/DineHunt/index.html",
     "main.25caec7e.css.map": "/DineHunt/static/css/main.25caec7e.css.map",
-    "main.2ea8113b.js.map": "/DineHunt/static/js/main.2ea8113b.js.map",
+    "main.06216563.js.map": "/DineHunt/static/js/main.06216563.js.map",
     "787.bd02f72e.chunk.js.map": "/DineHunt/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25caec7e.css",
-    "static/js/main.2ea8113b.js"
+    "static/js/main.06216563.js"
   ]
 }
