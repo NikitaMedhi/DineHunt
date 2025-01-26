@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NikitaMedhi/DineHunt.git/static/css/main.25caec7e.css",
-    "main.js": "/NikitaMedhi/DineHunt.git/static/js/main.c9783722.js",
-    "static/js/787.bd02f72e.chunk.js": "/NikitaMedhi/DineHunt.git/static/js/787.bd02f72e.chunk.js",
-    "static/media/logo.jpeg": "/NikitaMedhi/DineHunt.git/static/media/logo.3d33bc15cc579904fc76.jpeg",
-    "index.html": "/NikitaMedhi/DineHunt.git/index.html",
-    "main.25caec7e.css.map": "/NikitaMedhi/DineHunt.git/static/css/main.25caec7e.css.map",
-    "main.c9783722.js.map": "/NikitaMedhi/DineHunt.git/static/js/main.c9783722.js.map",
-    "787.bd02f72e.chunk.js.map": "/NikitaMedhi/DineHunt.git/static/js/787.bd02f72e.chunk.js.map"
+    "main.css": "/NikitaMedhi/DineHunt/static/css/main.25caec7e.css",
+    "main.js": "/NikitaMedhi/DineHunt/static/js/main.83b49615.js",
+    "static/js/787.bd02f72e.chunk.js": "/NikitaMedhi/DineHunt/static/js/787.bd02f72e.chunk.js",
+    "static/media/logo.jpeg": "/NikitaMedhi/DineHunt/static/media/logo.3d33bc15cc579904fc76.jpeg",
+    "index.html": "/NikitaMedhi/DineHunt/index.html",
+    "main.25caec7e.css.map": "/NikitaMedhi/DineHunt/static/css/main.25caec7e.css.map",
+    "main.83b49615.js.map": "/NikitaMedhi/DineHunt/static/js/main.83b49615.js.map",
+    "787.bd02f72e.chunk.js.map": "/NikitaMedhi/DineHunt/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25caec7e.css",
-    "static/js/main.c9783722.js"
+    "static/js/main.83b49615.js"
   ]
 }
